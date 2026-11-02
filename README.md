@@ -1,4 +1,4 @@
-Autonomous MCP Agent
+# Autonomous MCP Agent
 
 A small, beginner-friendly **AI agent** built from scratch in Python. You type a request in plain English, an LLM decides which tools to use, the tools run, and you get a natural-language answer back.
 
